@@ -18,6 +18,7 @@ The app includes 180 deterministic, realistic **synthetic demo records** created
 ## Recommendation model
 
 The local, transparent ranking function uses weighted normalized signals: rating 35%, popularity 25%, query relevance 20%, profile completeness 10%, and freshness 10%. Search matches titles, creators, descriptions, categories, skills and tags. No external API or paid AI service is required.
+The ranking approach is designed to provide interpretable recommendations.
 
 ## Persistence
 
