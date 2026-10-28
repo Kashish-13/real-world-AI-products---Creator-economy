@@ -16,7 +16,7 @@ npm run dev
 
 ## Data and attribution
 
-The app includes 180 deterministic, realistic **synthetic demo records** created specifically for this project. They model common public marketplace fields and distributions, but are not scraped from or represented as live Fiverr/Upwork listings. This avoids false attribution and licensing/privacy issues. Community-posted gigs are explicitly distinguished in the data model and persist in browser storage for the demo.
+The app includes 180 deterministic, realistic **synthetic demo records** created specifically for this project. They model common public marketplace fields and distributions, but are not scraped from or represented as live Fiverr/Upwork listings.
 
 ## Recommendation model
 
