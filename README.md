@@ -26,6 +26,7 @@ The ranking approach is designed to provide interpretable recommendations.
 ## Persistence
 
 For the browser-based hackathon deployment, gigs and bookings persist in `localStorage`, including status changes and decline reasons. The data model is intentionally compatible with migration to SQLite/D1 (`Gig`, `Creator`, and `Booking`).
+Booking and gig state changes are preserved across browser sessions.
 
 The platform is designed to connect creators and clients through a transparent AI-assisted marketplace.
 The platform supports creator discovery, gig management, bookings, and analytics.
