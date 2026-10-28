@@ -1,3 +1,6 @@
+
+
+
 # CreatorHub AI
 
 **Discover creators. Book talent. Build together.**
@@ -26,3 +29,6 @@ For the browser-based hackathon deployment, gigs and bookings persist in `localS
 
 The platform is designed to connect creators and clients through a transparent AI-assisted marketplace.
 The platform supports creator discovery, gig management, bookings, and analytics.
+## Deployment
+
+The application can be deployed as a production-style web application using a compatible Next.js hosting platform.
