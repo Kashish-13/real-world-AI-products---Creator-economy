@@ -24,3 +24,4 @@ The local, transparent ranking function uses weighted normalized signals: rating
 For the browser-based hackathon deployment, gigs and bookings persist in `localStorage`, including status changes and decline reasons. The data model is intentionally compatible with migration to SQLite/D1 (`Gig`, `Creator`, and `Booking`).
 
 The platform is designed to connect creators and clients through a transparent AI-assisted marketplace.
+The platform supports creator discovery, gig management, bookings, and analytics.
