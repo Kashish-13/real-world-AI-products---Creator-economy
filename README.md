@@ -23,6 +23,4 @@ The local, transparent ranking function uses weighted normalized signals: rating
 
 For the browser-based hackathon deployment, gigs and bookings persist in `localStorage`, including status changes and decline reasons. The data model is intentionally compatible with migration to SQLite/D1 (`Gig`, `Creator`, and `Booking`).
 
-## Stack
 
-React 19, TypeScript, Tailwind CSS, Recharts, Vinext/Cloudflare Workers.
